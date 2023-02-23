@@ -29,6 +29,6 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
       - name: Listar archivos
-        run: 
+        run: |
           ls
           pwd
